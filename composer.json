@@ -1,0 +1,15 @@
+{
+    "name": "arana/mvc-front-controller",
+    "autoload": {
+        "psr-4": {
+            "Arana\\MvcFrontController\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ikerarana",
+            "email": "iarana@birt.eus"
+        }
+    ],
+    "require": {}
+}
