@@ -2,7 +2,7 @@
     "name": "arana/mvc-front-controller",
     "autoload": {
         "psr-4": {
-            "Arana\\MvcFrontController\\": "src/"
+            "App\\": "app/"
         }
     },
     "authors": [
